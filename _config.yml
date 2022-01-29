@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "it-IT"
-title                    : "marksniper's personal page"
+title                    : "marksniper personal page"
 title_separator          : "-"
 name                     : &name "Benedetto Marco Serinelli"
 description              : &description "I am a Computer Engineering"
-url                      : https://marksniper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://marksniper.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marksniper/marksniper.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
-  commitMessage          : "Initialise personal page."
+  commitMessage          : "Improve personal page."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/benedetto-marco-serinelli-983228162/"
+  linkedin         : "benedetto-marco-serinelli-983228162/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "marcoserinelli"
+  twitter          : "marco_serinelli"
   vine             :
   weibo            :
   xing             :
