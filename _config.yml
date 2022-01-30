@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "it-IT"
-title                    : "marksniper personal page"
+title                    : "Benedetto Marco Serinelli's Academic Page"
 title_separator          : "-"
 name                     : &name "Benedetto Marco Serinelli"
 description              : &description "I am a Computer Engineering"
@@ -149,7 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

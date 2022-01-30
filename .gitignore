@@ -1,2 +1,9 @@
 _site/
 
+/.idea/.gitignore
+/.idea/marksniper.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
